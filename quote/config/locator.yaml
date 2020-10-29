@@ -1,0 +1,15 @@
+LoginPage:
+  username : /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/div/input
+  password : /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div/input
+  submit : //*[@id="in1"]
+CustormerPage:
+  cusmessage : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+  cusaddbutton : /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  customername : /html/body/form/table[1]/tbody/tr[2]/td[2]/input
+  customerbrithday : //*[@id="customerBirthday"]
+  customerEmail : /html/body/form/table[1]/tbody/tr[4]/td[4]/input
+  create : /html/body/form/table[1]/tbody/tr[8]/td[2]/input
+  addbutton : /html/body/form/table[2]/tbody/tr/td[2]/input
+  editor : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td[13]/div/span/a[1]
+  weibo : /html/body/form/table[1]/tbody/tr[8]/td[2]/input
+  submit : /html/body/form/table[2]/tbody/tr/td[2]/input
